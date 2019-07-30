@@ -1,0 +1,48 @@
+.modals{
+    position: fixed;
+    width: 77%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+}
+
+.btn_remove{
+    background:red;
+}
+
+h2,p{
+    color: #FFF;
+}
+
+p{
+    color: #FFF;
+}
+
+select {
+    background-color: rgb(50, 50, 50);
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    height: 3rem;
+    color: #FFF;
+}
+
+textarea {
+    width: 100%;
+    height: 10rem;
+    background-color: transparent;
+}
+
+.row{
+	    border: 1px solid #a5a5a5;
+    padding: 20px;
+    margin-top:20px;
+}
+
+.widimage img{
+    width:100%;
+    height:100%;
+}
